@@ -4,6 +4,7 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 Data Modeling:
 Inspect the CSVs and sketch out an ERD of the tables.
+Tools that can be used can be found here: http://www.quickdatabasediagrams.com.
 
 Data Engineering:
 Use the information obtained to create a table schema for each of the six CSV files. Specify data types, primary keys, 
